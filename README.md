@@ -41,7 +41,7 @@
 
 ---
 
-## 🗃️ Databases & ORM
+## 🗃️ Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" height="48" />
