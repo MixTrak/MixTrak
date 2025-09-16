@@ -77,6 +77,9 @@
   <a href="https://github.com/Mixtrak" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/ayaanplayz18/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" title="Instagram" height=25" />
+  </a>
 </p>
 
 ---
