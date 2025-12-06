@@ -67,13 +67,6 @@
 
 ---
 
-## 👨‍💻 Device
-<p>
-  <img src="https://skillicons.dev/icons?i=apple" title="MacBook" height="48">
-</p>
-
----
-
 ## 🌐 Let's Connect
 
 <p align="center">
